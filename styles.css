@@ -173,6 +173,10 @@ li {
         height: 120px;
     }
 
+    .contact-container > p {
+        width: 90%;
+    }
+    
     .footer-container {
         height: auto; 
     }
